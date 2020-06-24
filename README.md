@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# React Counter App
+# React TODO
 React-todo, as usual, the most common React app, which is the second one that I practiced for learning React!
 
 **[View Demo](https://rajondey.github.io/react-todo/)**
